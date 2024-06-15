@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/gallery.html",
+    "items": [
+      "/gallery/earthday2023.html",
+      "/gallery/flowercomm100.html",
+      "/gallery/uucm_pride.html",
+      "/gallery/nj_lobbyday.html",
+      "/gallery/prelim_fellowshipGA.html",
+      "/gallery/pride_worship.html",
+      "/gallery/todv2023.html",
+      "/gallery/beltane_wedding.html"
+    ]
+  },
+  {
+    "listing": "/sermons.html",
+    "items": [
+      "/sermons/joyfuldark.html",
+      "/sermons/tdov.html",
+      "/sermons/faithfulsci.html"
+    ]
+  }
+]
